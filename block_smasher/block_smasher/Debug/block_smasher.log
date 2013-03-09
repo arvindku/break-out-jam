@@ -1,0 +1,25 @@
+﻿Build started 1/5/2013 12:00:25 PM.
+     1>Project "C:\Users\psychoJokerHead\Desktop\Graphics\Game\block_smasher\block_smasher\block_smasher.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\block_smasher.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\psychoJokerHead\Desktop\Graphics\Game\block_smasher\Debug\block_smasher.exe" /NOLOGO Box2D.lib SDL.lib SDLmain.lib glu32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\block_smasher.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\psychoJokerHead\Desktop\Graphics\Game\block_smasher\Debug\block_smasher.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\psychoJokerHead\Desktop\Graphics\Game\block_smasher\Debug\block_smasher.lib" /MACHINE:X86 Debug\Ball.obj
+         Debug\Brick.obj
+         Debug\GameBoundary.obj
+         Debug\GameWorld.obj
+         Debug\Layout.obj
+         Debug\main.obj
+         Debug\Paddle.obj
+         block_smasher.vcxproj -> C:\Users\psychoJokerHead\Desktop\Graphics\Game\block_smasher\Debug\block_smasher.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\psychoJokerHead\Desktop\Graphics\Game\block_smasher\Debug\block_smasher.exe;#1" /manifest Debug\block_smasher.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\block_smasher.unsuccessfulbuild".
+         Touching "Debug\block_smasher.lastbuildstate".
+     1>Done Building Project "C:\Users\psychoJokerHead\Desktop\Graphics\Game\block_smasher\block_smasher\block_smasher.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39
